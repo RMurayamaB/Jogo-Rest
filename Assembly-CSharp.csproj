@@ -60,7 +60,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.21f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\Dialogos\NPC\Dialogo_NPC.cs" />
+    <Compile Include="Assets\Script\Dialogos\ControleDialogo.cs" />
+    <Compile Include="Assets\Script\Dialogos\NPC\NPC_IA.cs" />
     <Compile Include="Assets\Script\Player.cs" />
+    <Compile Include="Assets\Script\Dialogos\ConfiguracaoDialogo.cs" />
     <Compile Include="Assets\Script\PlayerAnimacao.cs" />
   </ItemGroup>
   <ItemGroup>
